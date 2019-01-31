@@ -16,7 +16,7 @@
  */
 package com.alibaba.boot.dubbo.context.event;
 
-import org.apache.dubbo.common.Version;
+import com.alibaba.dubbo.common.Version;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
